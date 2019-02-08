@@ -27,4 +27,3 @@ function exactMatchToList(arrayOfDriversObjects, unknownObject) {
     return driverObject.name;
   });
 }
-
